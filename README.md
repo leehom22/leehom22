@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **leehom2004@gmail.com**
 
-- ⚡ Fun fact **Why butter can fly?**
+- ⚡ Fun fact **What falls, but never needs a bandage? The rain.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
