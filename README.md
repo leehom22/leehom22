@@ -17,21 +17,19 @@ Full Stack Developer | AI Builder | Creating tech that solves real-world problem
 
 ### 🏆 Featured Projects
 
-#### 🧩 AI Autism Communication Assistant
-Built an AI-powered AAC platform that helps individuals with autism improve:
-- Communication
-- Emotional expression
-- Social interaction
-- AI journaling support
+#### 🧩 AI Document Analysis System
+Built an AI Document Analysis System to help detect fraud and forgery:
+- In-Depth AI Analysis
+- Human-In-The-Loop
+- Document Security
 
-**Tech Stack:** Flutter, Firebase, Python, Google AI
+**Tech Stack:** React, FastAPI, Firebase, GCP
 
 ---
 
 #### 🏥 AI Healthcare Platform
 Online doctor appointment system featuring:
 - Teleconsultation
-- AI chatbot
 - Appointment booking
 - Patient management system
 
@@ -39,37 +37,24 @@ Online doctor appointment system featuring:
 
 ---
 
-#### 🚌 Real-Time Bus Tracking System
-University transportation tracking platform with:
-- Live bus tracking
-- Search functionality
-- Map integration
-- Feedback system
+#### University Renting App
+University renting platform:
+- Rent item to earn money
+- Search for item to rent
 
-**Tech Stack:** React, Node.js, Firebase, Mapbox
-
----
-
-#### 🎮 AR/VR Projects
-Building immersive applications involving:
-- AR measurement systems
-- VR game development
-- Interactive environments
-
-**Tech Stack:** Unity, ARCore, C#
-
+**Tech Stack:** Flutter, Nodejs, Flutter
 ---
 
 ### 💻 Tech Stack
 
 #### Frontend
-React | Next.js | Flutter | Tailwind CSS | HTML | CSS | JavaScript
+React | Next.js | Flutter | Tailwind CSS | HTML | CSS | JavaScript | Vue js
 
 #### Backend
-Node.js | Express.js | MongoDB | PostgreSQL | Firebase
+Node.js | Express.js | MongoDB | PostgreSQL | Firebase | Java Spring
 
 #### AI / Cloud
-Python | Google Cloud | AWS
+Python | Google Cloud 
 
 #### Tools
 Docker | Postman | Figma | Git
@@ -90,8 +75,8 @@ Docker | Postman | Figma | Git
 
 ### 🌐 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Instagram: @leehom_0104
+- LinkedIn: https://www.linkedin.com/in/ling-lee-hom-b67367250/
+- Instagram: https://www.instagram.com/leehom_0104
 - LeetCode: leehom22
 
 ---
