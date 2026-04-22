@@ -43,6 +43,7 @@ University renting platform:
 - Search for item to rent
 
 **Tech Stack:** Flutter, Nodejs, Flutter
+
 ---
 
 ### 💻 Tech Stack
