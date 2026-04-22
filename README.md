@@ -1,20 +1,100 @@
 <h1 align="center">Hi 👋, I'm Ling Lee Hom</h1>
-<h3 align="center">A passionate fullstack developer from Malaysia</h3>
+<h3 align="center">
+Full Stack Developer | AI Builder | Creating tech that solves real-world problems
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leehom22&label=Profile%20views&color=0e75b6&style=flat" alt="leehom22" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leehom22" alt="leehom22" /></a> </p>
+### 🚀 About Me
+- 🔭 Currently building **AI-powered healthcare platforms**
+- 🧠 Developing an **AI-Document Analysis system (2nd Runner Up Kitahack 2026)**
+- 🎮 Exploring **AR/VR application development**
+- 🌱 Learning advanced system design & scalable backend architecture
+- 💡 Passionate about building products that create real social impact
+- ⚡ Fun fact: I enjoy turning hackathon ideas into real-world products
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lee hom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lee hom" height="30" width="40" /></a>
-<a href="https://instagram.com/leehom_0104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leehom_0104" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leehom22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leehom22" height="30" width="40" /></a>
+---
+
+### 🏆 Featured Projects
+
+#### 🧩 AI Autism Communication Assistant
+Built an AI-powered AAC platform that helps individuals with autism improve:
+- Communication
+- Emotional expression
+- Social interaction
+- AI journaling support
+
+**Tech Stack:** Flutter, Firebase, Python, Google AI
+
+---
+
+#### 🏥 AI Healthcare Platform
+Online doctor appointment system featuring:
+- Teleconsultation
+- AI chatbot
+- Appointment booking
+- Patient management system
+
+**Tech Stack:** MERN Stack
+
+---
+
+#### 🚌 Real-Time Bus Tracking System
+University transportation tracking platform with:
+- Live bus tracking
+- Search functionality
+- Map integration
+- Feedback system
+
+**Tech Stack:** React, Node.js, Firebase, Mapbox
+
+---
+
+#### 🎮 AR/VR Projects
+Building immersive applications involving:
+- AR measurement systems
+- VR game development
+- Interactive environments
+
+**Tech Stack:** Unity, ARCore, C#
+
+---
+
+### 💻 Tech Stack
+
+#### Frontend
+React | Next.js | Flutter | Tailwind CSS | HTML | CSS | JavaScript
+
+#### Backend
+Node.js | Express.js | MongoDB | PostgreSQL | Firebase
+
+#### AI / Cloud
+Python | Google Cloud | AWS
+
+#### Tools
+Docker | Postman | Figma | Git
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leehom22&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehom22&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leehom22&show_icons=true&locale=en&layout=compact" alt="leehom22" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leehom22&show_icons=true&locale=en" alt="leehom22" /></p>
+### 🌐 Connect With Me
+
+- LinkedIn: [Your LinkedIn URL]
+- Instagram: @leehom_0104
+- LeetCode: leehom22
+
+---
+
+### Current Goal
+Build impactful AI startups that improve healthcare, accessibility, and human lives.
