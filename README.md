@@ -78,7 +78,6 @@ Docker | Postman | Figma | Git
 
 - LinkedIn: https://www.linkedin.com/in/ling-lee-hom-b67367250/
 - Instagram: https://www.instagram.com/leehom_0104
-- LeetCode: leehom22
 
 ---
 
